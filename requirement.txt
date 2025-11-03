@@ -1,0 +1,7 @@
+customtkinter
+selenium
+webdriver-manager
+Pillow
+beepy
+winsound
+requests
